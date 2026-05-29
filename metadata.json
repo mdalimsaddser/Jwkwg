@@ -1,0 +1,6 @@
+{
+  "name": "Sabbir Browser",
+  "description": "An advanced, developer-focused Android browser developed by Md Sabbir featuring multi-tabs, bookmarks, search history, custom JS execution, User-Agent switcher, and a gorgeous M3 interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
